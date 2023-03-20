@@ -44,4 +44,6 @@ module.exports = app;
         3   : Start Projects (Βe/Fe separately) and DB setup (Using WebStorm as IDE)
     Tuesday 2023/03/14
         4   : Be | Users + Register Login & Teams (no 2FA but with prediction) +
+    Friday 2023/03/17
+        3   : Finalized and minor cleanup
 * */
